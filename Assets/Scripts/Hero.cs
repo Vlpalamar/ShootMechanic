@@ -74,6 +74,7 @@ public class Hero : MonoBehaviour
 
     void Jump(float multiply=1)
     {
+
         CheckIsGrounded();
 
         //проверка 
